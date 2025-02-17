@@ -1,0 +1,1 @@
+docker compose -p garage-app up --build -d
